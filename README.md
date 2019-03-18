@@ -1,5 +1,5 @@
-# cpp-competition-programming
-This is the competition programming practice repository . I use C++ language .
+# cpp-practice
+This is the competition programming practice repository . 
 
 ## How to run ?
 
